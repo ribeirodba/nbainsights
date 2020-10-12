@@ -11,9 +11,4 @@ Project contains 3 parts:
 
 * Part 2 - Data Exploration
 
-  Here I clean the data and prepare the data for visualization of my insights.
-  
-* Part 3 - Data Visualization
-
-  Finally I present my insights.
-
+  Here I clean the data and prepare visualization of my insights.
